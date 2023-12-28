@@ -1,2 +1,2 @@
 # Personal-Site
-https://github.com/Ninuolafs/Personal-Site.git
+https://ninuolafs.github.io/Personal-Site/
